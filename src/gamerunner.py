@@ -80,7 +80,7 @@ class GameRunner:
                 Returns:
                     dict: A dictionary of the choice
                 """
-                print(f"{player_name}, please enter the square selection from below for your square of choice (see below for hints)")
+                print(f"{player_name}, please enter the square selection below for your square of choice.")
                 # print("0,0 - top left")
                 # print("0,0 - top center")
                 # print("0,2 - top right")
